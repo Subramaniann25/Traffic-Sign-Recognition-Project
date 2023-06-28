@@ -88,6 +88,14 @@ In the end, we are going to save the model that we have trained using the Keras 
 
 ->  model.save(‘traffic_classifier.h5’)
 
+OUTPUT:
+
+![image](https://github.com/Subramaniann25/Traffic-Sign-Recognition-Project/assets/114677185/dd53b160-eef7-43cc-8184-dbdfa1dbe677)
+
+Summary
+In this Python project with source code, we have successfully classified the traffic signs classifier with 95% accuracy and also visualized how our accuracy and loss changes with time, which is pretty good from a simple CNN model.
+
+
 
 
 
